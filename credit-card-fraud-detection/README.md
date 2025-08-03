@@ -40,6 +40,6 @@ This project is a basic implementation of a **classification model** to detect f
 
 1. Clone this repo or download the `.py` file and dataset.
 2. Place `creditcard.csv` in the same directory.
-3. Run the script:
+3. Run the script: python credit_card_fraud.py
 
 

@@ -43,5 +43,5 @@ This project is a simple implementation of a **classification model** to predict
 
 1. Download or clone this repository.
 2. Ensure Python and required libraries are installed.
-3. Run the script in terminal:
+3. Run the script in terminal: python diabetes_checker.py
 
